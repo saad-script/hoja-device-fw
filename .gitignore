@@ -6,3 +6,6 @@ build/
 library/artifacts/
 
 __pycache__/
+
+.cache/
+compile_commands.json
